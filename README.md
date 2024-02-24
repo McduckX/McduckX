@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,bash,aws,idea,matlab,postman,maven" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,powershell,replit,unity,ubuntu,arduino,Ps" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,powershell,replit,unity,ubuntu,arduino,ps" /><br>
 </div>
 
 <br/>
